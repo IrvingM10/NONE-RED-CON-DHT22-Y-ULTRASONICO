@@ -198,6 +198,7 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 
 Cuando el programe funcione correctamente te arrojara los siguientes resultados los cuales pueden variar dependidendo del rango de los sensores y los rangos ajustados en la node red 
 
+![image](https://github.com/user-attachments/assets/c2470cf8-57ba-4f88-b9eb-1a9512ddfadb)
 
 
 
