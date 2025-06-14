@@ -183,4 +183,15 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 ```
 2.Instalar las librerías siguientes 
 
+![image](https://github.com/user-attachments/assets/9478397b-f105-434e-8a7a-357c16f2163b)
+
 3.Hacer la conexión como se muestra en la siguiente imagen
+
+
+
+
+
+
+
+
+
