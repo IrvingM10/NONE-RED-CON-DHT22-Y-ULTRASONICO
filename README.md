@@ -187,6 +187,16 @@ TempAndHumidity  data = dhtSensor.getTempAndHumidity();
 
 3.Hacer la conexión como se muestra en la siguiente imagen
 
+![image](https://github.com/user-attachments/assets/3e14fa82-28b9-46e6-9c7d-cce0c7d6aaa3)
+
+## Instrucciones de operacion
+1.Iniciar el simulador
+2. Abrir la dashboard donde se mostraran las graficas de los datos recolectados
+3. Variar los parametros dando doble click en los sensores para que estos puedan modificar las graficas 
+
+## Resultados 
+
+Cuando el programe funcione correctamente te arrojara los siguientes resultados los cuales pueden variar dependidendo del rango de los sensores y los rangos ajustados en la node red 
 
 
 
