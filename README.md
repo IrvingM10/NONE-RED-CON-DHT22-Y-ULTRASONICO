@@ -205,9 +205,11 @@ Cuando el programe funcione correctamente te arrojara los siguientes resultados 
 
 ![image](https://github.com/user-attachments/assets/3dd59d06-7a46-4a1e-9934-015fd4141dbe)
 
+![image](https://github.com/user-attachments/assets/31c4db2f-3d30-45ae-9f3b-940519df9ae8)
 
+## Créditos
+Desarrollado por Irving Cardoso estudiante de Ingeniería Mecánica
 
-
-
+https://github.com/IrvingM10/NONE-RED-CON-DHT22-Y-ULTRASONICO/edit/main/README.md
 
 
