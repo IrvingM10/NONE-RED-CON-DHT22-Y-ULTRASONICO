@@ -19,6 +19,8 @@ La node red nos mostrará los valores recolectados de los sensores con la dashbo
 
   ![image](https://github.com/user-attachments/assets/4fa452ce-850a-430c-b6fe-6ea6001507b5)
 
+![image](https://github.com/user-attachments/assets/8b1a5e43-e9ac-4ed1-8d1a-e5631be9bd96)
+
 
   https://www.mqtt-dashboard.com/ 
 
