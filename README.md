@@ -17,6 +17,9 @@ La node red nos mostrará los valores recolectados de los sensores con la dashbo
 - None Red (SMD Ejecutar como administrador de tareas y poner node-red y dar enter) y abrir en internet con localhost:1880
 - Servidor MQTT presionar connect y copiar lo que aparece adelante de HOST (SMD)
 
+  ![image](https://github.com/user-attachments/assets/4fa452ce-850a-430c-b6fe-6ea6001507b5)
+
+
   https://www.mqtt-dashboard.com/ 
 
 ## Instrucciones
